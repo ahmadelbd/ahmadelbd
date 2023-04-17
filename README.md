@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋 
 
-<!--
-**ahmadelbd/ahmadelbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ahmed, a teen developer from Syria currently based in Turkey.
 
-Here are some ideas to get you started:
+- 💻 Strong experience in Android Studio, new to Flutter, always eager to learn.
+- 🐍 Python pro, experienced in reverse engineering and cracking.
+- 🌐 Limited web dev experience, but constantly expanding my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the programming languages I know:
+
+- Kotlin
+- Java
+- Dart
+- Python
+
+Let's connect and build amazing software together! 🤝
