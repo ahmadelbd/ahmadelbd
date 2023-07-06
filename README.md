@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-My name is Ahmed, a teen developer from Syria currently based in Turkey.
+My name is Ahmed, an Android Developer from Syria currently based in Turkey.
 
 - 💻 Strong experience in Android Studio, new to Flutter, always eager to learn.
 - 🐍 Python pro, experienced in reverse engineering and cracking.
