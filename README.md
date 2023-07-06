@@ -13,4 +13,10 @@ Here are some of the programming languages and stacks I know:
 - Python
 - Node.js
 
+Skills:
+
+- Reverse Engineering andorid apps
+- Bug hunting
+- Botnet
+
 Let's connect and build amazing software together! 🤝
