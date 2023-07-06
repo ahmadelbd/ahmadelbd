@@ -6,11 +6,11 @@ My name is Ahmed, a teen developer from Syria currently based in Turkey.
 - 🐍 Python pro, experienced in reverse engineering and cracking.
 - 🌐 Limited web dev experience, but constantly expanding my skills.
 
-Here are some of the programming languages I know:
+Here are some of the programming languages and stacks I know:
 
 - Kotlin
 - Java
-- Dart
 - Python
+- Node.js
 
 Let's connect and build amazing software together! 🤝
