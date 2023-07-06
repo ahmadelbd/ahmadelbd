@@ -12,11 +12,14 @@ Here are some of the programming languages and stacks I know:
 - Java
 - Python
 - Node.js
+- Retrofit2
 
 Skills:
 
 - Reverse Engineering andorid apps
 - Bug hunting
 - Botnet
+- Cracking android apps
+- Android UI
 
 Let's connect and build amazing software together! 🤝
